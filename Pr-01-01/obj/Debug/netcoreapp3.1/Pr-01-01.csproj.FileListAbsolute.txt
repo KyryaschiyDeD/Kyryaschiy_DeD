@@ -9,3 +9,14 @@ D:\Documents\Kyryaschiy_DeD\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-0
 D:\Documents\Kyryaschiy_DeD\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.AssemblyInfo.cs
 D:\Documents\Kyryaschiy_DeD\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.dll
 D:\Documents\Kyryaschiy_DeD\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.pdb
+D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.csprojAssemblyReference.cache
+D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.AssemblyInfoInputs.cache
+D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.AssemblyInfo.cs
+D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.dll
+D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.pdb
+D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.exe
+D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.deps.json
+D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.runtimeconfig.json
+D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.runtimeconfig.dev.json
+D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.dll
+D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.pdb
