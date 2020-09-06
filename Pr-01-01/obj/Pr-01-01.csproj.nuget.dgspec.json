@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\Kyryaschiy_DeD\\KyryaschiyDeD\\Kyryaschiy_DeD\\Pr-01-01\\Pr-01-01.csproj": {}
+    "C:\\Users\\micma\\Source\\Repos\\Kyryaschiy_DeD\\Pr-01-01\\Pr-01-01.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\Kyryaschiy_DeD\\KyryaschiyDeD\\Kyryaschiy_DeD\\Pr-01-01\\Pr-01-01.csproj": {
+    "C:\\Users\\micma\\Source\\Repos\\Kyryaschiy_DeD\\Pr-01-01\\Pr-01-01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\Kyryaschiy_DeD\\KyryaschiyDeD\\Kyryaschiy_DeD\\Pr-01-01\\Pr-01-01.csproj",
+        "projectUniqueName": "C:\\Users\\micma\\Source\\Repos\\Kyryaschiy_DeD\\Pr-01-01\\Pr-01-01.csproj",
         "projectName": "Pr-01-01",
-        "projectPath": "D:\\Documents\\Kyryaschiy_DeD\\KyryaschiyDeD\\Kyryaschiy_DeD\\Pr-01-01\\Pr-01-01.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\Kyryaschiy_DeD\\KyryaschiyDeD\\Kyryaschiy_DeD\\Pr-01-01\\obj\\",
+        "projectPath": "C:\\Users\\micma\\Source\\Repos\\Kyryaschiy_DeD\\Pr-01-01\\Pr-01-01.csproj",
+        "packagesPath": "C:\\Users\\micma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\micma\\Source\\Repos\\Kyryaschiy_DeD\\Pr-01-01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\micma\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

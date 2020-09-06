@@ -20,3 +20,16 @@ D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netc
 D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.runtimeconfig.dev.json
 D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.dll
 D:\Documents\Kyryaschiy_DeD\KyryaschiyDeD\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.pdb
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.exe
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.deps.json
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.runtimeconfig.json
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.runtimeconfig.dev.json
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.dll
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\bin\Debug\netcoreapp3.1\Pr-01-01.pdb
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.csprojAssemblyReference.cache
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.AssemblyInfoInputs.cache
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.AssemblyInfo.cs
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.csproj.CoreCompileInputs.cache
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.dll
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.pdb
+C:\Users\micma\Source\Repos\Kyryaschiy_DeD\Pr-01-01\obj\Debug\netcoreapp3.1\Pr-01-01.genruntimeconfig.cache
