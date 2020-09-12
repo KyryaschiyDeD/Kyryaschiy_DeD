@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "pr_01_02_02 (SortStrings)/1.0.0": {
+        "runtime": {
+          "pr_01_02_02 (SortStrings).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pr_01_02_02 (SortStrings)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

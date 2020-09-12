@@ -1,0 +1,12 @@
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\bin\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).exe
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\bin\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).deps.json
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\bin\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).runtimeconfig.json
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\bin\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).runtimeconfig.dev.json
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\bin\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).dll
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\bin\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).pdb
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\obj\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).AssemblyInfoInputs.cache
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\obj\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).AssemblyInfo.cs
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\obj\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).csproj.CoreCompileInputs.cache
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\obj\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).dll
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\obj\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).pdb
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02_02 (SortStrings)\obj\Debug\netcoreapp3.1\pr_01_02_02 (SortStrings).genruntimeconfig.cache
