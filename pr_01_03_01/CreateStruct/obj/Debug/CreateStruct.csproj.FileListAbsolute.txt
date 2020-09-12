@@ -1,0 +1,6 @@
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_01\CreateStruct\bin\Debug\CreateStruct.exe
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_01\CreateStruct\bin\Debug\CreateStruct.pdb
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_01\CreateStruct\obj\Debug\CreateStruct.csprojAssemblyReference.cache
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_01\CreateStruct\obj\Debug\CreateStruct.csproj.CoreCompileInputs.cache
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_01\CreateStruct\obj\Debug\CreateStruct.exe
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_01\CreateStruct\obj\Debug\CreateStruct.pdb
