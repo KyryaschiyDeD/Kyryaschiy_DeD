@@ -1,0 +1,13 @@
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\bin\Debug\netcoreapp3.1\pr_01_02.exe
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\bin\Debug\netcoreapp3.1\pr_01_02.deps.json
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\bin\Debug\netcoreapp3.1\pr_01_02.runtimeconfig.json
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\bin\Debug\netcoreapp3.1\pr_01_02.runtimeconfig.dev.json
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\bin\Debug\netcoreapp3.1\pr_01_02.dll
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\bin\Debug\netcoreapp3.1\pr_01_02.pdb
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\obj\Debug\netcoreapp3.1\pr_01_02.csprojAssemblyReference.cache
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\obj\Debug\netcoreapp3.1\pr_01_02.AssemblyInfoInputs.cache
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\obj\Debug\netcoreapp3.1\pr_01_02.AssemblyInfo.cs
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\obj\Debug\netcoreapp3.1\pr_01_02.csproj.CoreCompileInputs.cache
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\obj\Debug\netcoreapp3.1\pr_01_02.dll
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\obj\Debug\netcoreapp3.1\pr_01_02.pdb
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_02\obj\Debug\netcoreapp3.1\pr_01_02.genruntimeconfig.cache
