@@ -1,0 +1,10 @@
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_02(TimerEvents)\obj\Debug\pr_01_03_02(TimerEvents).csprojAssemblyReference.cache
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_02(TimerEvents)\obj\Debug\pr_01_03_02_TimerEvents_.Form1.resources
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_02(TimerEvents)\obj\Debug\pr_01_03_02_TimerEvents_.Properties.Resources.resources
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_02(TimerEvents)\obj\Debug\pr_01_03_02(TimerEvents).csproj.GenerateResource.cache
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_02(TimerEvents)\obj\Debug\pr_01_03_02(TimerEvents).csproj.CoreCompileInputs.cache
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_02(TimerEvents)\bin\Debug\pr_01_03_02(TimerEvents).exe.config
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_02(TimerEvents)\bin\Debug\pr_01_03_02(TimerEvents).exe
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_02(TimerEvents)\bin\Debug\pr_01_03_02(TimerEvents).pdb
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_02(TimerEvents)\obj\Debug\pr_01_03_02(TimerEvents).exe
+C:\Users\micma\source\repos\Kyryaschiy_DeD\pr_01_03_02(TimerEvents)\obj\Debug\pr_01_03_02(TimerEvents).pdb
