@@ -1,0 +1,9 @@
+G:\Downloads\Chapter01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\bin\Debug\ViewFile.exe
+G:\Downloads\Chapter01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\bin\Debug\ViewFile.pdb
+G:\Downloads\Chapter01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.csprojAssemblyReference.cache
+G:\Downloads\Chapter01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.Form1.resources
+G:\Downloads\Chapter01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.Properties.Resources.resources
+G:\Downloads\Chapter01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.csproj.GenerateResource.cache
+G:\Downloads\Chapter01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.csproj.CoreCompileInputs.cache
+G:\Downloads\Chapter01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.exe
+G:\Downloads\Chapter01\Chapter01\Lesson2-ViewFile\Lesson2-ViewFile-cs\ViewFile\ViewFile\obj\Debug\ViewFile.pdb
